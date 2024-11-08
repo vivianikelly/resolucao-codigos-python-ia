@@ -6,6 +6,8 @@ Como não tenho acesso ao Github Copilot, será utilizado [chatgpt](https://chat
 ---
 **Descrição:** Vamos receber dois dados diferentes do usuário e concatena-los em uma única string.
 
+**Nome função:** *concat_dados.py*
+
 **Explicação resolução:**
 
 - Recebendo as entradas: será utilizado comando input(), o qual é usado para capturar as entradas do usuário.
@@ -14,7 +16,7 @@ Como não tenho acesso ao Github Copilot, será utilizado [chatgpt](https://chat
 
 - Exibindo o resultado: A string concatenada é exibida com print().
 
-**Nome função:** *concat_dados.py*
+
 
 
 
